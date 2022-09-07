@@ -14,7 +14,7 @@
 ## Conhecido também por:
 ###### *(Clique no link para saber mais)*
 
-- <a href="https://pt.wikipedia.org/wiki/Bobina_de_Tesla"> Bobina de Tesla; <sp>
+- <a href="https://pt.wikipedia.org/wiki/Bobina_de_Tesla"> Bobina de Tesla; 
 - <a href="https://pt.wikipedia.org/wiki/Turbina_de_Tesla"> Turbina de Tesla;
 - <a href="https://pt.wikipedia.org/wiki/Oscilador_de_Tesla"> Oscilador de Tesla;
 - <a href="https://pt.wikipedia.org/wiki/Princípio_de_Tesla"> Princípio de Tesla;
@@ -22,14 +22,14 @@
 - <a href="https://pt.wikipedia.org/wiki/Campo_magnético_rotativo"> Campo magnético rotativo;
 - <a href="https://pt.wikipedia.org/wiki/Transmissão_sem_fios"> Transmissão sem fios;
 - <a href="https://pt.wikipedia.org/wiki/Raio_da_morte"> Raio da Morte.
+</a>
+  
+![giphy (4)](https://user-images.githubusercontent.com/112489130/188985520-00f8b884-977c-49f4-8865-449440812747.gif)
+
+<a href="https://letmegooglethat.com/?q=NIKOLA+TESLA"> Saiba mais sobre mim clicando aqui </a>
   
 <img src="https://3.bp.blogspot.com/-VpG6in-cNZ8/WmPi26Yj96I/AAAAAAAA5sU/Lvhpo_F-ay8ATlx3FLi9YoOEHf4RPWoiACLcBGAs/s1600/nikola-tesla-steampunk-outracoisa-young-jovem.jpg">
  
-![giphy (4)](https://user-images.githubusercontent.com/112489130/188985520-00f8b884-977c-49f4-8865-449440812747.gif)
-
-
-Saiba mais sobre mim no Google clicando aqui! <a href="https://letmegooglethatforyou.com/?q=Nikola+Tesla">
-
 #### Siga minhas redes sociais:
 
 <div> 
