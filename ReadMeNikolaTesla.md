@@ -24,9 +24,14 @@
 - <a href="https://pt.wikipedia.org/wiki/Raio_da_morte"> Raio da Morte.
   
 <img src="https://3.bp.blogspot.com/-VpG6in-cNZ8/WmPi26Yj96I/AAAAAAAA5sU/Lvhpo_F-ay8ATlx3FLi9YoOEHf4RPWoiACLcBGAs/s1600/nikola-tesla-steampunk-outracoisa-young-jovem.jpg">
-
- ### Encontre me no Google <a href="https://letmegooglethat.com/?q=Nikola+Tesla">.
  
+![giphy (4)](https://user-images.githubusercontent.com/112489130/188985520-00f8b884-977c-49f4-8865-449440812747.gif)
+
+
+Saiba mais sobre mim no Google clicando aqui! <a href="https://letmegooglethatforyou.com/?q=Nikola+Tesla">
+
+#### Siga minhas redes sociais:
+
 <div> 
   <a href="https://youtu.be/pYP7OGTdYY8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/energialivre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
