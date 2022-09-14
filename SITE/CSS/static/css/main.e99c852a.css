@@ -5485,7 +5485,7 @@ pre code {
 
 @media screen and (min-width: 1200px) {
     .index ul {
-        -webkit-columns:3;
+        -webkit-column:3;
         column-count: 3
     }
 }
