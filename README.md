@@ -31,7 +31,7 @@
   <a href="https://instagram.com/mikaelmonteiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:mikaelmonteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.twitter.com/mikaelmonteiro" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-   
-   <a href="https://www.freecodecamp.org/mikaelmonteirodev">Perfil FreecodeCamp</a>
+    <a href="https://www.freecodecamp.org/mikaelmonteirodev" target="_blank"><img src="https://img.shields.io/badge/freecodecamp%20-%2343853D.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>
+  
    
 </div>
