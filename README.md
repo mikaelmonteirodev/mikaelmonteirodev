@@ -20,7 +20,6 @@ src="https://img.shields.io/twitch/status/mikaelmonteirodev?logo=twitchsx&style=
 
 ### Skills
 
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -33,7 +32,6 @@ src="https://img.shields.io/twitch/status/mikaelmonteirodev?logo=twitchsx&style=
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
-
 
 ### Socials
 
@@ -53,7 +51,7 @@ src="https://img.shields.io/twitch/status/mikaelmonteirodev?logo=twitchsx&style=
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
 ### Support Me
 
