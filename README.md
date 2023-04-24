@@ -40,6 +40,8 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <a href="https://www.freecodecamp.org/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" width="32" height="32" /></a>
     <a href="http://www.instagram.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     <a href="https://www.youtube.com/c/user/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+    <a href="https://www.twitter.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="https://www.twitch.tv/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
     <a href="https://www.stackoverflow.com/users/307999/mikael-monteiro?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
     <a href="https://www.behance.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
     <a href="https://www.codepen.io/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
@@ -51,8 +53,6 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <a href="https://hashnode.com/@mikaelmonteiro.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
     <a href="https://www.polywork.com/mikael_monteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
     <a href="http://www.medium.com/@mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-    <a href="https://www.twitter.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-    <a href="https://www.twitch.tv/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
