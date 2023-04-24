@@ -36,6 +36,7 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 
 <p align="left">
     <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://www.behance.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
     <a href="https://www.codepen.io/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
     <a href="https://codesandbox.io/u/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
@@ -45,7 +46,6 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <a href="https://www.facebook.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
     <a href="https://hashnode.com/@mikaelmonteiro.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
     <a href="http://www.instagram.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://www.polywork.com/mikael_monteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
     <a href="http://www.medium.com/@mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
     <a href="https://www.stackoverflow.com/users/307999/mikael-monteiro?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
