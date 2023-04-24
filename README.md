@@ -75,3 +75,5 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mikaelmonteiro"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<img src="https://starchart.cc/mikaelmonteirodev/mikaelmonteirodev.svg" />
