@@ -37,6 +37,7 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 <p align="left">
     <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://www.freecodecamp.org/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" width="32" height="32" /></a>
     <a href="https://www.behance.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
     <a href="https://www.codepen.io/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
     <a href="https://codesandbox.io/u/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
@@ -52,7 +53,6 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <a href="https://www.twitter.com/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.youtube.com/c/user/mikaelmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
     <a href="https://www.twitch.tv/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-    <a href="https://www.freecodecamp.org/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
