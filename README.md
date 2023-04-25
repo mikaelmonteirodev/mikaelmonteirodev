@@ -10,7 +10,7 @@ FullStack Developer in Development
 * ✉️  You can contact me at [mikaelmonteirodev@gmail.com](mailto:mikaelmonteirodev@gmail.com)
 * 🧠  I'm learning HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS
 * 🤝  I'm open to collaborating on Projects for beginners
-* ⚡  My Rock Band is called "Joio" @joiooficial
+* ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 * 💻  My linktree: https://linktr.ee/mikaelmonteirodev
 
 <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img
