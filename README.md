@@ -75,7 +75,7 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 ### Tech Skills
 
 <span>
-    <img width="100% ign="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mikaelmonteirodev" />
+    <img width="70%" ign="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mikaelmonteirodev" />
 </span>
 
 <br>
