@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> -->
 </p>
 
-### Socials
+### Social Medias
 
 <p align="left">
     <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
