@@ -84,12 +84,15 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 
 <a href="https://www.buymeacoffee.com/mikaelmonteiro"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+<div>
 ![Snake animation](https://github.com/mikaelmonteirodev/mikaelmonteirodev/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-
-
+<div>
 ![snake gif](https://github.com/mikaelmonteirodev/mikaelmonteirodev/blob/output/github-snake.gif)
+</div>
 
+<div>
 <svg width="100%" height="auto" viewBox="0 0 722 167" xmlns="http://www.w3.org/2000/svg">
     <style type="text/css">
         .snake {fill:#fff;stroke:#9B9B9B;stroke-width: 5px;}
@@ -98,4 +101,4 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <path class="snake" d="M15 15 L60 15 L60 60 L105 60 L105 105 L60 105 L60 150 L15 150 L15 105 L-30 105 L-30 60 L15 60"></path>
     <text x="120" y="109" fill="#fff">ieeeei</text>
 </svg>
-
+</div>
