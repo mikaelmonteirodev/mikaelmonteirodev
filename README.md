@@ -102,3 +102,11 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
     <text x="120" y="109" fill="#fff">ieeeei</text>
 </svg>
 </div>
+
+
+## 
+<br>
+
+![Snake animation](https://github.com/mikaelmonteirodev/mikaelmonteirodev/blob/output/github-contribution-grid-snake.svg)
+
+</div>
