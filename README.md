@@ -8,7 +8,7 @@ FullStack Developer in Development
 
 * 🌍  I'm based in Fortaleza | Ceará |Brazil
 * ✉️  You can contact me at [mikaelmonteirodev@gmail.com](mailto:mikaelmonteirodev@gmail.com)
-* 🧠  I'm learning HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS
+* 🧠  I'm learning tech skills for Fullstack, from Backend to Frontend.
 * 🤝  I'm open to collaborating on Projects for beginners
 * ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 * 💻  My linktree: https://linktr.ee/mikaelmonteirodev
