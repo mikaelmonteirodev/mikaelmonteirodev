@@ -30,10 +30,7 @@ src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Express" /></a>
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg
-<a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor
--->
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### Social Medias
