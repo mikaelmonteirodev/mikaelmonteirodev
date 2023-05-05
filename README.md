@@ -6,15 +6,14 @@ FullStack Developer in Development
 
 👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
 
-* 🌍  I'm based in Fortaleza | Ceará |Brazil
+* 🌍  I'm based in Fortaleza | Ceará | Brazil
 * ✉️  You can contact me at [mikaelmonteirodev@gmail.com](mailto:mikaelmonteirodev@gmail.com)
 * 🧠  I'm learning tech skills for Fullstack, from Backend to Frontend.
 * 🤝  I'm open to collaborating on Projects for beginners
 * ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 * 💻  My linktree: https://linktr.ee/mikaelmonteirodev
 
-<a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Learning Skills
 
