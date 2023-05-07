@@ -81,10 +81,11 @@ FullStack Developer in Development
 ### Tech Skills
 
 <span>
-    <img width="70%" ign="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mikaelmonteirodev" />
+    <img width="60%" ign="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mikaelmonteirodev" />
 </span>
 
 <br>
+
 
 ### Support Me
 
