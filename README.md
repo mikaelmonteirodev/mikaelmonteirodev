@@ -58,6 +58,10 @@ FullStack Developer in Development
     <a href="http://www.medium.com/@mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p>
 
+### My Certifies
+- [FreeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/mikaelmonteirodev/responsive-web-design)
+- [Code.Org - Computer Science](https://studio.code.org/print_certificates/eyJuYW1lIjoiTWlrYWVsIE1vbnRlaXJvIiwiY291cnNlIjoiZXhwcmVzcy0yMDIyIiwiZG9ub3IiOiJBVFx1MDAyNlQifQ==)
+
 ### Badges
 
 <b>My GitHub Stats</b>
