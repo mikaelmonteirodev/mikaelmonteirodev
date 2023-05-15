@@ -10,8 +10,8 @@ FullStack Developer in Development
 * ✉️  You can contact me at [mikaelmonteirodev@gmail.com](mailto:mikaelmonteirodev@gmail.com)
 * 🧠  I'm learning tech skills for Fullstack, from Backend to Frontend.
 * 🤝  I'm open to collaborating on Projects for beginners
-* ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 * 💻  My linktree: https://linktr.ee/mikaelmonteirodev
+* ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 
 <a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
