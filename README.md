@@ -13,7 +13,7 @@ FullStack Developer in Development
 * 💻  My linktree: https://linktr.ee/mikaelmonteirodev
 * ⚡  My Rock Band is called "Joio" [@joiooficial](http://instagram.com/bandajoio)
 
-<a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/mikaelmonteirodev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mikaelmonteirodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Learning Skills
 
