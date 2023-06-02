@@ -1,10 +1,10 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikael Monteiro!
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mikael Monteiro!
 =======================================================================================================================================
 
-FullStack Developer in Development
+I´m a Jr FullStack Developer
 ----------------------------------
 
-👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
+👨‍💻 I'm a Full Stack development student at Digital College Brasil in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community.
 
 * 🌍  I'm based in Fortaleza | Ceará | Brazil
 * ✉️  You can contact me at [mikaelmonteirodev@gmail.com](mailto:mikaelmonteirodev@gmail.com)
