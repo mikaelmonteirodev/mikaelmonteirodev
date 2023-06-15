@@ -32,7 +32,7 @@ I´m a Jr FullStack Developer
 <a href="https://github.com/jxnblk/mdx-deck" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/mdx-logo-60628A5188-seeklogo.com.png" height="28" alt="MDX" /></a>
 <a href="https://codesurfer.pomb.us" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pomber/code-surfer/948452f7c1c8adaf019e29600d7d158747a91a90/sites/docs/src/home/logo.small.svg" height="40" alt="Code Surfer" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" height="45" alt="Docker" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="[https://img.icons8.com/color/96/000000/docker.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png)" height="45" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="PostgreSQL" /></a>
 </p>
 
 ### Social Medias
