@@ -82,7 +82,7 @@ I´m a Jr FullStack Developer
 
 ---
 
-### Support Me!!!
+### Support Me!
 
 <a href="https://www.buymeacoffee.com/mikaelmonteiro"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 
