@@ -62,6 +62,9 @@ I´m a Jr FullStack Developer
 - [FreeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/mikaelmonteirodev/responsive-web-design)
 - [Code.Org - Computer Science](https://studio.code.org/print_certificates/eyJuYW1lIjoiTWlrYWVsIE1vbnRlaXJvIiwiY291cnNlIjoiZXhwcmVzcy0yMDIyIiwiZG9ub3IiOiJBVFx1MDAyNlQifQ==)
 
+### Soma Projects
+- [DevLinks - A linktree-style personal links page](https://mikaelmonteirodev.github.io/devlink/)
+
 ### Badges
 
 <b>My GitHub Stats</b>
