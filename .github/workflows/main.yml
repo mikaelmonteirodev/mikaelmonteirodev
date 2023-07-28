@@ -17,7 +17,7 @@ jobs:
           github_user_name: mikaelmonteirodev
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.2.0  # Use a version that supports node16
         with:
           target_branch: output
           build_dir: dist
