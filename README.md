@@ -98,6 +98,6 @@ I´m a FullStack Developer
 <br>
 <span>
     
-![Snake animation](https://github.com/mikaelmonteirodev/mikaelmonteirodev/blob/output/github-contribution-grid-snake.svg)
+[](https://github.com/mikaelmonteirodev/mikaelmonteirodev/blob/output/github-contribution-grid-snake.svg)
 
 </span>
