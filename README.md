@@ -81,7 +81,8 @@ I´m a FullStack Developer
 
 <p width="70%" align="center"><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mikaelmonteirodev/mikaelmonteirodev.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikaelmonteirodev&repo=mikaelmonteirodev.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></p>
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ### Support Me !!!
 
