@@ -93,4 +93,3 @@ I´m a FullStack Developer
 <div>    
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mikaelmonteirodev/mikaelmonteirodev/output/github-contribution-grid-snake.svg" />
 </div>
-<br/><br/><br/>
